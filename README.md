@@ -1,2 +1,2 @@
 # firstyear
-My first year Java projects 
+A collection of my Java programming assignments.
