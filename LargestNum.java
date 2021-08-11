@@ -1,9 +1,9 @@
 import java.util.*;
 
 public class LargestNum {
-		//this program read input number and find the larger value
+		//this program reads input number and finds the larger value
 	public static void main(String[] args) {
-		//keyboard scan, prompt user to enter numbers
+		//keyboard scan, prompts user to enter numbers
 		Scanner input = new Scanner(System.in);
 		boolean continueInput = true;
 	do {
