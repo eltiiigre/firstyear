@@ -3,7 +3,7 @@ import java.util.*;
 public class PassFail {
 		//this program computes average grades with four inputs
 	public static void main(String[] args) {
-		//keyboard scan, prompt user to enter grade
+		//keyboard scan, prompts user to enter grade
 		Scanner input = new Scanner(System.in);
 		boolean continueInput = true;
 	do {
